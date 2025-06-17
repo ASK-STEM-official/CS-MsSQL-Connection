@@ -2,27 +2,27 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-// アセンブリに関する一般的な情報は、次の方法で制御されます
+// アセンブリに関する一般的な情報は、次の方法で制御されます。
 // 制御されます。アセンブリに関連付けられている情報を変更するには、
 // これらの属性値を変更します。
-[assembly: AssemblyTitle("Cs-MsSQL-Connection")]
+[assembly: AssemblyTitle("CS-MsSQL-Connection")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Cs-MsSQL-Connection")]
+[assembly: AssemblyProduct("CS-MsSQL-Connection")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
 // ComVisible を false に設定すると、このアセンブリ内の型は COM コンポーネントから
 // 参照できなくなります。COM からこのアセンブリ内の型にアクセスする必要がある場合は、
-// その型の ComVisible 属性を true に設定してください。
+// その型の ComVisible 属性を true に設定します。
 [assembly: ComVisible(false)]
 
 // このプロジェクトが COM に公開される場合、次の GUID が typelib の ID になります
-[assembly: Guid("12e6838a-bc37-492e-831c-f62d03a63517")]
+[assembly: Guid("d4f0e20f-1791-4447-b936-b3e8734da4b2")]
 
-// アセンブリのバージョン情報は、以下の 4 つの値で構成されています:
+// アセンブリのバージョン情報は次の 4 つの値で構成されています:
 //
 //      メジャー バージョン
 //      マイナー バージョン
