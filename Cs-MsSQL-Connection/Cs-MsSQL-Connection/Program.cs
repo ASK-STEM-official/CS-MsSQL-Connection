@@ -3,7 +3,7 @@ using System.Data.SqlClient;
 
 class Program
 {
-    static string connectionString = "Server=localhost\\SQLEXPRESS;Database=TestDB;Trusted_Connection=True;Encrypt=True;TrustServerCertificate=True;";
+    static string connectionString = "Server=localhost;Database=TestDB;Trusted_Connection=True;Encrypt=True;TrustServerCertificate=True;";
 
     static void Main()
     {
