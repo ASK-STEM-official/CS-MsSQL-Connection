@@ -3,7 +3,9 @@ using System.Data.SqlClient;
 
 class Program
 {
-    static string connectionString = "Server=localhost;Database=TestDB;Trusted_Connection=True;Encrypt=True;TrustServerCertificate=True;";
+    //static string connectionString = "Server=localhost;Database=TestDB;Trusted_Connection=True;Encrypt=True;TrustServerCertificate=True;";    // Windows認証を使用する場合
+    //static string connectionString = "Server=localhost;Database=TestDB;User Id=;Password=;Encrypt=True;TrustServerCertificate=True;"; // SQL Server認証を使用する場合
+
 
     static void Main()
     {
